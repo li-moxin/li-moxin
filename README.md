@@ -10,7 +10,7 @@
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research Interests (Updated in April 2025)
 
 My research interests mainly lie in **trustworthy language models**. I have focused on trust issues including:
 
