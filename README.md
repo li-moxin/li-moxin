@@ -6,7 +6,7 @@
 ---
 
 > <b><font color="#8c2222" size=4>I am actively seeking postdoc positions. Please feel free to drop me an email if you're interested!</font></b>  
-📄 Check out my [CV](../Resume_Moxin.pdf)
+📄 Check out my [CV](Resume_Moxin.pdf)
 
 ---
 
