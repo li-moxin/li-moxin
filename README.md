@@ -25,7 +25,7 @@ My research interests mainly lie in **trustworthy language models**. I have focu
   [EMNLP 2024](https://arxiv.org/abs/2403.09972)
 
 - **Multi-objective Alignment**  
-  Towards thorough and unbiased trustworthiness  
+  Towards thorough and unbiased performance  
   [ARR 2025 Under Review](https://arxiv.org/abs/2502.14354)
 
 I’m also interested in:
